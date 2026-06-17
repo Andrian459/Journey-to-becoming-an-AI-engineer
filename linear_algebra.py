@@ -1,7 +1,8 @@
-What_I_learned ='Today I watched 3 videos from 3blue1brown essence of linear algebra series. I had no prior knowledge of linear algebra and made sure to mentally emphasize the importance of visual reasoning behind the concepts. I covered vectors, scalars, linear independence, and linear transformations' + ' to better my understanding of linear algebra I decided to teach myself Gauss Jordan elimination'
-First_video = 'I covered what a vector is, scaling, and (in)dependence.'
-Second_video = 'I rushed through this video during the school day hoping I could give myself a head start - I actually ended up doing the opposite -- the video is marked for rewatch'
-Third_video = 'I covered linear transformations î, ĵ along with matrix-vector multiplication'
+#6/16/26
+#What I learned Today - I watched 3 videos from 3blue1brown essence of linear algebra series. I had no prior knowledge of linear algebra and made sure to mentally emphasize the importance of visual reasoning behind the concepts. I covered vectors, scalers linear independence, and linear transformations' + ' to better my understanding of linear algebra I decided to teach myself Gauss Jordan elimination
+#First video - I covered what a vector is, scaling, and (in)dependence.
+#Second video - I rushed through this video during the school day hoping I could give myself a head start - I actually ended up doing the opposite -- the video is marked for rewatch
+#Third video - I covered linear transformations î, ĵ along with matrix-vector multiplication
 #programming
-Python_journey = "well this was essentially the first day of re-learning python. I wish I could say I had a lot of fun but I really didn't enjoy it. I look forward to being able to integrate my python knowledge with numpy once I get the basic syntax down"
-What_I_learned_coding = "thankfully freecodecamp is kind enough to offer a free python course that I was able to use to begin refreshing my python knowledge - I'll make a separate file for everything I learnt today that I will simultaneously be updating as I learn more"
+#Python journey - well this was essentially the first day of re-learning python. I wish I could say I had a lot of fun but I really didn't enjoy it. I look forward to being able to integrate my python knowledge with numpy once I get the basic syntax down
+#What I learned coding - Thankfully freecodecamp is kind enough to offer a free python course that I was able to use to begin refreshing my python knowledge - Ill make a seperate file for everything I learnt today that I will simultaneously be updating as I learn more
