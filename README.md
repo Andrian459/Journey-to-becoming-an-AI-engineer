@@ -1,6 +1,6 @@
 Phase 1 goal (will be updating as I complete the next phases) 
 
-Learning ML from the ground up — math, Python, NumPy.
+Learning from the ground up — math, Python, NumPy.
 
 Tracking progress through:
 - **Math**: Linear algebra, calculus, probability (3Blue1Brown + Khan Academy)
