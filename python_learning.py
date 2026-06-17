@@ -23,4 +23,4 @@ year_code = employee_code[4:8]
 print(year_code)
 initials = employee_code[9:11]
 print(initials)
-#bloatedcode unfortunately but it is a start so hopefully in the near future this will motivate some indivuals to learn
+#bloatedcode unfortunately but it is a start so hopefully in the near future this will motivate some individuals to learn
